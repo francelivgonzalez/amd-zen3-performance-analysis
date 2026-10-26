@@ -1,0 +1,28 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# C/C++ build files
+*.o
+*.obj
+*.exe
+*.out
+build/
+
+# IDE files
+.vscode/
+.idea/
+
+# Temporary files
+*.log
+*.tmp
+
+# Linux perf recordings
+perf.data
+perf.data.*
+
+# Operating system
+.DS_Store
+Thumbs.db
