@@ -1,4 +1,4 @@
-\# Performance Edge Cases in AMD Zen Architecture
+\** Performance Edge Cases in AMD Zen Architecture**
 
 
 
@@ -6,7 +6,7 @@ Experimental analysis of cache behavior, memory access patterns, and multicore s
 
 
 
-\## Project Overview
+\## **Project Overview**
 
 
 
@@ -18,7 +18,7 @@ Experiments are conducted on an AMD EPYC 7V13 (Zen 3) system using C/C++ microbe
 
 
 
-\## Research Question
+\##** Research Question**
 
 
 
@@ -26,7 +26,7 @@ Under what workloads does an AMD Zen-based processor start losing performance or
 
 
 
-\## Experiments
+\## **Experiments**
 
 
 
