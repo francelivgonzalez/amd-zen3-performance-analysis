@@ -1,0 +1,8 @@
+{
+  "provenance": "Printed output from 10 individual benchmark runs on Brooks, November 3, 2026",
+  "raw_run_csv_files_included": false,
+  "valid_runs": 10,
+  "cycles": {"mean": 213971079.6, "sample_standard_deviation": 1558732.9034, "coefficient_of_variation_percent": 0.73, "min": 212230748, "max": 216288539},
+  "instructions": {"mean": 867375025.1, "sample_standard_deviation": 72422.8955, "coefficient_of_variation_percent": 0.01, "min": 867231002, "max": 867490174},
+  "ipc": {"mean": 4.0539, "sample_standard_deviation": 0.0295, "coefficient_of_variation_percent": 0.73, "min": 4.0099, "max": 4.0870}
+}
