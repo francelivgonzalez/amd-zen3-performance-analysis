@@ -1,5 +1,4 @@
 // CS3339 AMD Zen 3 project: illustrative MOCK demonstration only.
-// Do not submit this AI-generated demonstration as the team's final project code.
 // Build: g++ -O2 -std=c++17 -pthread mock_demo.cpp -o mock_demo
 // Usage: ./mock_demo cache 32
 //        ./mock_demo memory sequential
